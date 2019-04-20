@@ -1,0 +1,7 @@
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\adilli\Documents\Visual Studio 2017\Projects\Deneme\Deneme\obj\Debug\Deneme.pdb
